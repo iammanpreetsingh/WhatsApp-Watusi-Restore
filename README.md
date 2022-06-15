@@ -3,7 +3,7 @@
 The one and only way to restore official whatsapp chats on watusi application
 
 
-## Releases
+## Release
 
 * **Jailbreak:** Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Zebra/Sileo sources and download it from there. (Check [canijailbreak.com](https://canijailbreak.com/) for more info on how to jailbreak your current iOS version)
 * **Sideloading (No Jailbreak):** 
