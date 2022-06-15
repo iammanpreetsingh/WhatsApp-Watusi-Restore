@@ -1,19 +1,9 @@
-[original]: https://mega.nz/file/hWxCRBhZ#9P5Zpnk9ZHL7R2zWSfoAWJPH4hL9YzK2Ps5-ZkjW7ko
-[original-stalky]: https://mega.nz/file/FThQna7T#B7QnBnkSCdpRTsrXAbEBPQj5NAzIjfhklOFklRzRV2k
-[duplicate]: https://mega.nz/file/0L4jFJSK#ecehUAvpOkvlcnMVBYDc0nZYBDEiPHYcQiDK2tuJXuI
-[duplicate-stalky]: https://mega.nz/file/IKR0CDCS#IP6ngXl2bircIvXnfCCgUnEw5PVtcucK0SPSiBBsUYA
-[business]: https://mega.nz/file/EeZ23BaA#ypCxvWci4smFX0uuyRdEL8s6-MySUOZ-9CH__BT7e2k
+# WhatsApp Watusi Restore
 
-[builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
-[builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewatusi/?aid=1025553
-[builds-io-watusi-business]: https://builds.io/apps/whatsappb/?aid=1025553
-
-# Watusi for WhatsApp
-
-The all-in-one tweak for WhatsApp Messenger!
+The one and only way to restore official whatsapp chats on watusi application
 
 
-## Download Links
+## Releases
 
 * **Jailbreak:** Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Zebra/Sileo sources and download it from there. (Check [canijailbreak.com](https://canijailbreak.com/) for more info on how to jailbreak your current iOS version)
 * **Sideloading (No Jailbreak):** 
