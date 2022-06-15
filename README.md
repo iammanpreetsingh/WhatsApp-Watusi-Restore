@@ -10,6 +10,8 @@ The one and only way to restore official whatsapp chats on watusi application
 This is an active repository. All the releases are tested and verified by many users and testers including myself. 
 The WhatsApp Watusi IPA's will be updated as soon as Fouad Raheb (Original Developer of Watusi) will update the .IPA file on his Github Repo. 
 
+[Check Latest Release](https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/latest)
+
 
 ## IMPORTANT
 
