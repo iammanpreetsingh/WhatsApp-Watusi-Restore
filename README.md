@@ -11,6 +11,6 @@ This is an active repository. All the releases are tested and verified by many u
 The WhatsApp Watusi IPA's will be updated as soon as Fouad Raheb (Original Developer of Watusi) will update the .IPA file on his Github Repo. 
 
 
-##IMPORTANT
+## IMPORTANT
 
 You cannot use official .IPA fom Fouad Raheb if you want to use this method. The restore only works with IPA's that are released in this repository only. 
