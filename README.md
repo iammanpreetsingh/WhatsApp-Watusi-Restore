@@ -12,6 +12,8 @@ The WhatsApp Watusi IPA's will be updated as soon as Fouad Raheb (Original Devel
 
 [Check Latest Release](https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/latest)
 
+Join Our Telegram Group: https://t.me/AppleTesters
+
 
 ## IMPORTANT
 
