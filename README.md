@@ -12,6 +12,10 @@ The WhatsApp Watusi IPA's will be updated as soon as Fouad Raheb (Original Devel
 
 [Check Latest Release](https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/latest)
 
+* **Sideloading (No Jailbreak):** 
+
+    1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer.
+
         | Application | Bundle | Version | Watusi 3 | Stalky |
         | ------------------ |:---------:|:------:|:------:|:------:|
         | [WhatsApp][original] | net.whatsapp.WhatsApp | 22.16.77 | 1.1.32 | - |
@@ -20,6 +24,10 @@ The WhatsApp Watusi IPA's will be updated as soon as Fouad Raheb (Original Devel
         | [WhatsApp Duplicate][duplicate-stalky] | com.fouadraheb.watusi | 22.16.77 | 1.1.32 | 4.1.14 |
         | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.15.77 | 1.1.32 | - |
         
+    2. (Option 2) [Optional] You can get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io][builds-io-watusi] since they always have the latest IPA from here. Builds.io links: [Watusi][builds-io-watusi] - [Watusi Duplicate][builds-io-watusi-duplicate] - [Watusi WhatsApp Business][builds-io-watusi-business].
+
+&nbsp;
+
 Join Our Telegram Group: https://t.me/AppleTesters
 >>>>>>> f38ae0d2334a10e2b17ef3e62413c4a75fd8da7d
 
