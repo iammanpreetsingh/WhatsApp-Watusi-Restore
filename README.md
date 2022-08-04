@@ -1,8 +1,8 @@
-[original]: https://mega.nz/file/xTom0aJS#YRQPrJ2bGHtA9Iukucu2djhg_vwd5gbLQPeudlmxkWM
-[original-stalky]: https://mega.nz/file/QG51HajA#eDLMg9g3MNM-mPW9ayebKKuCNrrKsE2O9dSkJeSK2Eo
-[duplicate]: https://mega.nz/file/pbonwBaI#i2po3TBdb_g-39Kdyhg7rI6vMdO1Gtt9Yk1nP53Tnzw
-[duplicate-stalky]: https://mega.nz/file/NOIRQIpD#67ZUsjEZQreQvpgDF_cn7jElLO-pRNai55hXTAZx9dg
-[business]: https://mega.nz/file/xWYVGLCL#E59wITxfvi5XLlH2mTWOqZ9qtxr5WEcX4PIdCjZkvxc
+[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.16.77/WhatsApp.Original.v22.16.77.-.Manpreet.Singh.ipa
+[original-stalky]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.16.77/WhatsApp.Original.Stalky.v22.16.77.-.Manpreet.Singh.ipa
+[duplicate]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.16.77/WhatsApp.Duplicate.v22.16.77.-.Manpreet.Singh.ipa
+[duplicate-stalky]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.16.77/WhatsApp.Duplicate.Stalky.v22.17.66.-.Manpreet.Singh.ipa
+[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.16.77/WA.Business.v22.16.77.-.Manpreet.singh.ipa
 
 # WhatsApp Watusi Restore
 
@@ -20,7 +20,7 @@ The WhatsApp Watusi IPA's will be updated as soon as Fouad Raheb (Original Devel
 
 * **Sideloading (No Jailbreak):** 
 
-    1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer.
+    1. Download IPA file from here and use any known method to sign and install the app.
 
         | Application | Bundle | Version | Watusi 3 | Stalky |
         | ------------------ |:---------:|:------:|:------:|:------:|
