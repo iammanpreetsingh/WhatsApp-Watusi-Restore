@@ -1,3 +1,9 @@
+[original]: https://mega.nz/file/xTom0aJS#YRQPrJ2bGHtA9Iukucu2djhg_vwd5gbLQPeudlmxkWM
+[original-stalky]: https://mega.nz/file/QG51HajA#eDLMg9g3MNM-mPW9ayebKKuCNrrKsE2O9dSkJeSK2Eo
+[duplicate]: https://mega.nz/file/pbonwBaI#i2po3TBdb_g-39Kdyhg7rI6vMdO1Gtt9Yk1nP53Tnzw
+[duplicate-stalky]: https://mega.nz/file/NOIRQIpD#67ZUsjEZQreQvpgDF_cn7jElLO-pRNai55hXTAZx9dg
+[business]: https://mega.nz/file/xWYVGLCL#E59wITxfvi5XLlH2mTWOqZ9qtxr5WEcX4PIdCjZkvxc
+
 # WhatsApp Watusi Restore
 
 The one and only way to restore official whatsapp chats on watusi application
@@ -18,11 +24,11 @@ The WhatsApp Watusi IPA's will be updated as soon as Fouad Raheb (Original Devel
 
         | Application | Bundle | Version | Watusi 3 | Stalky |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | WhatsApp Original | net.whatsapp.WhatsApp | 22.16.77 | 1.1.32 | - |
-        | WhatsApp Original Stalky] | net.whatsapp.WhatsApp | 22.16.77 | 1.1.32 | 4.1.14 |
-        | WhatsApp Duplicate | com.fouadraheb.watusi | 22.16.77 | 1.1.32 | - |
-        | WhatsApp Duplicate | com.fouadraheb.watusi | 22.16.77 | 1.1.32 | 4.1.14 |
-        | WA Business | net.whatsapp.WhatsAppSMB | 22.15.77 | 1.1.32 | - |
+        | [WhatsApp][original] | net.whatsapp.WhatsApp | 22.16.77 | 1.1.32 | - |
+        | [WhatsApp][original-stalky] | net.whatsapp.WhatsApp | 22.16.77 | 1.1.32 | 4.1.14 |
+        | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.16.77 | 1.1.32 | - |
+        | [WhatsApp Duplicate][duplicate-stalky] | com.fouadraheb.watusi | 22.16.77 | 1.1.32 | 4.1.14 |
+        | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.15.77 | 1.1.32 | - |
         
     2. (Option 2) [Optional] You can get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io][builds-io-watusi] since they always have the latest IPA from here. Builds.io links: [Watusi][builds-io-watusi] - [Watusi Duplicate][builds-io-watusi-duplicate] - [Watusi WhatsApp Business][builds-io-watusi-business].
 
