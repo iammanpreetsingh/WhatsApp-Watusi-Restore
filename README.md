@@ -12,6 +12,7 @@ The WhatsApp Watusi IPA's will be updated as soon as Fouad Raheb (Original Devel
 
 [Check Latest Release](https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/latest)
 
+<<<<<<< HEAD
         | Application | Bundle | Version | Watusi 3 | Stalky |
         | ------------------ |:---------:|:------:|:------:|:------:|
         | [WhatsApp][original] | net.whatsapp.WhatsApp | 22.16.77 | 1.1.32 | - |
@@ -19,6 +20,9 @@ The WhatsApp Watusi IPA's will be updated as soon as Fouad Raheb (Original Devel
         | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.16.77 | 1.1.32 | - |
         | [WhatsApp Duplicate][duplicate-stalky] | com.fouadraheb.watusi | 22.16.77 | 1.1.32 | 4.1.14 |
         | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.15.77 | 1.1.32 | - |
+=======
+Join Our Telegram Group: https://t.me/AppleTesters
+>>>>>>> f38ae0d2334a10e2b17ef3e62413c4a75fd8da7d
 
 
 ## IMPORTANT
