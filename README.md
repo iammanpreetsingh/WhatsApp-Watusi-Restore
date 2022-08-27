@@ -1,8 +1,8 @@
-[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.16.77/WhatsApp.Original.v22.16.77.-.Manpreet.Singh.ipa
-[original-stalky]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.16.77/WhatsApp.Original.Stalky.v22.16.77.-.Manpreet.Singh.ipa
-[duplicate]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.16.77/WhatsApp.Duplicate.v22.16.77.-.Manpreet.Singh.ipa
-[duplicate-stalky]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.16.77/WhatsApp.Duplicate.Stalky.v22.17.66.-.Manpreet.Singh.ipa
-[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.16.77/WA.Business.v22.16.77.-.Manpreet.singh.ipa
+[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.17.77/WhatsApp.Original.v22.17.77.-.@thisismanpreets.ipa
+[original-stalky]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.17.77/WhatsApp.Original.Stalky.v22.17.77.-.@thisismanpreets.ipa
+[duplicate]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.17.77/WhatsApp.Duplicate.v22.17.77.-.@thisismanpreets.ipa
+[duplicate-stalky]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.17.77/WhatsApp.Duplicate.Stalky.v22.17.77.-.@thisismanpreets.ipa
+[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.17.77/_WA.Business.v22.17.77.-.@thisismanpreets.ipa
 
 # WhatsApp Watusi Restore
 
@@ -24,11 +24,11 @@ The WhatsApp Watusi IPA's will be updated as soon as Fouad Raheb (Original Devel
 
         | Application | Bundle | Version | Watusi 3 | Stalky |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [WhatsApp Original][original] | net.whatsapp.WhatsApp | 22.16.77 | 1.1.32 | - |
-        | [WhatsApp Original Stalky][original-stalky] | net.whatsapp.WhatsApp | 22.16.77 | 1.1.32 | 4.1.14 |
-        | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.16.77 | 1.1.32 | - |
-        | [WhatsApp Duplicate Stalky][duplicate-stalky] | com.fouadraheb.watusi | 22.16.77 | 1.1.32 | 4.1.14 |
-        | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.15.77 | 1.1.32 | - |
+        | [WhatsApp Original][original] | net.whatsapp.WhatsApp | 22.17.77 | 1.1.35 | - |
+        | [WhatsApp Original Stalky][original-stalky] | net.whatsapp.WhatsApp | 22.17.77 | 1.1.35 | 4.1.14 |
+        | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.17.77 | 1.1.35 | - |
+        | [WhatsApp Duplicate Stalky][duplicate-stalky] | com.fouadraheb.watusi | 22.17.77 | 1.1.35 | 4.1.14 |
+        | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.17.77 | 1.1.35 | - |
         
 
 &nbsp;
