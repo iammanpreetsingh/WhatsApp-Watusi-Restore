@@ -1,9 +1,9 @@
-[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76/WhatsApp.Original.v22.18.76.-.@thisismanpreets.ipa
-[original-stalky]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76/WhatsApp.Original.Stalky.v22.18.76.-.@thisismanpreets.ipa
-[original-notify]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76/WhatsApp.Original.OnlineNotify.v22.18.76.-.@thisismanpreets.ipa
-[duplicate]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76/WhatsApp.Duplicate.v22.18.76.-.@thisismanpreets.ipa
-[duplicate-stalky]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76/WhatsApp.Duplicate.Stalky.v22.18.76.-.@thisismanpreets.ipa
-[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76/WA.Business.v22.18.76.-.@thisismanpreets.ipa
+[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76.1/WhatsApp.Original.Fixed.v22.18.76.-.@thisismanpreets.ipa
+[original-stalky]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76.1/WhatsApp.Original.Stalky.Fixed.v22.18.76.-.@thisismanpreets.ipa
+[original-notify]: #
+[duplicate]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76.1/WhatsApp.Duplicate.Fixed.v22.18.76.-.@thisismanpreets.ipa
+[duplicate-stalky]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76.1/WhatsApp.Duplicate.Stalky.Fixed.v22.18.76.-.@thisismanpreets.ipa
+[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76.1/WhatsApp.Business.Fixed.v22.18.76.-.@thisismanpreets.ipa
 
 # WhatsApp Watusi Restore
 
