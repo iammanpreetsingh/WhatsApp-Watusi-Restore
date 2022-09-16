@@ -27,7 +27,7 @@ The WhatsApp Watusi IPA's will be updated as soon as Fouad Raheb (Original Devel
         | ------------------ |:---------:|:------:|:------:|:------:|:------:|
         | [WhatsApp Original][original] | net.whatsapp.WhatsApp | 22.18.76 | 1.1.36 | - | - |
         | [WhatsApp Original Stalky][original-stalky] | net.whatsapp.WhatsApp | 22.18.76 | 1.1.36 | 4.1.14 | - |
-        | WhatsApp Original Notify | net.whatsapp.WhatsApp | 22.18.76 | 1.1.36 | 4.1.14 | 3.3.0 |
+        | WhatsApp Original Notify | net.whatsapp.WhatsApp | - | 1.1.36 | 4.1.14 | 3.3.0 |
         | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.18.76 | 1.1.36 | - | - |
         | [WhatsApp Duplicate Stalky][duplicate-stalky] | com.fouadraheb.watusi | 22.18.76 | 1.1.36 | 4.1.14 | - |
         | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.18.76 | 1.1.36 | - | - |
