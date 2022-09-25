@@ -1,9 +1,6 @@
-[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76.1/WhatsApp.Original.Fixed.v22.18.76.-.@thisismanpreets.ipa
-[original-stalky]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76.1/WhatsApp.Original.Stalky.Fixed.v22.18.76.-.@thisismanpreets.ipa
-[original-notify]: #
-[duplicate]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76.1/WhatsApp.Duplicate.Fixed.v22.18.76.-.@thisismanpreets.ipa
-[duplicate-stalky]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76.1/WhatsApp.Duplicate.Stalky.Fixed.v22.18.76.-.@thisismanpreets.ipa
-[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.18.76.1/WhatsApp.Business.Fixed.v22.18.76.-.@thisismanpreets.ipa
+[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.19.78/WhatsApp.Original.v22.19.78.-.@thisismanpreets.ipa
+[duplicate]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.19.78/WhatsApp.Duplicate.v22.19.78.-.@thisismanpreets.ipa
+[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.19.78/WhatsApp.Business.v22.19.78.-.@thisismanpreets.ipa
 
 # WhatsApp Watusi Restore
 
@@ -19,20 +16,19 @@ The WhatsApp Watusi IPA's will be updated as soon as Fouad Raheb (Original Devel
 
 [Check Latest Release](https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/latest)
 
-* **Sideloading (No Jailbreak):** 
+### Sideloading (No Jailbreak)
 
-    1. Download IPA file from here and use any known method to sign and install the app.
+1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer.
 
-        | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
-        | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-        | [WhatsApp Original][original] | net.whatsapp.WhatsApp | 22.18.76 | 1.1.36 | - | - |
-        | [WhatsApp Original Stalky][original-stalky] | net.whatsapp.WhatsApp | 22.18.76 | 1.1.36 | 4.1.14 | - |
-        | WhatsApp Original Notify | net.whatsapp.WhatsApp | - | 1.1.36 | 4.1.14 | 3.3.0 |
-        | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.18.76 | 1.1.36 | - | - |
-        | [WhatsApp Duplicate Stalky][duplicate-stalky] | com.fouadraheb.watusi | 22.18.76 | 1.1.36 | 4.1.14 | - |
-        | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.18.76 | 1.1.36 | - | - |
-        
+    The following IPA files have `Plugins` folder deleted and includes some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.
+    | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
+    | ------------------ |:---------:|:------:|:------:|:------:|:------:|
+    | [WhatsApp Original][original] | net.whatsapp.WhatsApp | 22.19.78 | 1.1.37 | 4.1.14 | 3.3.15 |
+    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.19.78 | 1.1.37 | 4.1.14 | 3.3.15 |
+    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.19.78 | 1.1.37 | 4.1.14 | 3.3.15 |
 
+    ```Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.```
+    
 &nbsp;
 
 Join Our Telegram Group: https://t.me/AppleTesters
