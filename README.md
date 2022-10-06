@@ -1,6 +1,6 @@
-[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.19.78/WhatsApp.Original.v22.19.78.-.@thisismanpreets.ipa
-[duplicate]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.19.78/WhatsApp.Duplicate.v22.19.78.-.@thisismanpreets.ipa
-[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.19.78/WhatsApp.Business.v22.19.78.-.@thisismanpreets.ipa
+[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.20.75/WhatsApp.Original.v22.20.75.-.@thisismanpreets.ipa
+[duplicate]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.20.75/WhatsApp.Duplicate.v22.20.75.-.@thisismanpreets.ipa
+[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.20.75/WhatsApp.Business.v22.20.75.-.@thisismanpreets.ipa
 
 # WhatsApp Watusi Restore
 
@@ -23,9 +23,9 @@ The WhatsApp Watusi IPA's will be updated as soon as Fouad Raheb (Original Devel
     The following IPA files have `Plugins` folder deleted and includes some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp Original][original] | net.whatsapp.WhatsApp | 22.19.78 | 1.1.37 | 4.1.14 | 3.3.15 |
-    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.19.78 | 1.1.37 | 4.1.14 | 3.3.15 |
-    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.19.78 | 1.1.37 | 4.1.14 | 3.3.15 |
+    | [WhatsApp Original][original] | net.whatsapp.WhatsApp | 22.20.75 | 1.1.37 | 4.1.15 | 3.3.15 |
+    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.20.75 | 1.1.37 | 4.1.15 | 3.3.15 |
+    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.20.75 | 1.1.37 | 4.1.15 | 3.3.15 |
 
     ```Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.```
     
