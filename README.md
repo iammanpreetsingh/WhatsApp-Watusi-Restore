@@ -1,6 +1,6 @@
-[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.20.75/WhatsApp.Original.v22.20.75.-.@thisismanpreets.ipa
-[duplicate]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.20.75/WhatsApp.Duplicate.v22.20.75.-.@thisismanpreets.ipa
-[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.20.75/WhatsApp.Business.v22.20.75.-.@thisismanpreets.ipa
+[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.20.75/WhatsApp.Original.Fixed.v22.20.75.-.@thisismanpreets.ipa
+[duplicate]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.20.75/WhatsApp.Duplicate.Fixed.v22.20.75.-.@thisismanpreets.ipa
+[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.20.75/WhatsApp.Business.Fixed.v22.20.75.-.@thisismanpreets.ipa
 
 # WhatsApp Watusi Restore
 
