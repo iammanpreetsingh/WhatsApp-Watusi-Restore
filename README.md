@@ -1,6 +1,6 @@
-[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.23.74/WhatsApp.Original.v22.23.74.-.@thisismanpreets.-.apptesters.org.ipa
-[duplicate]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.23.74/WhatsApp.Duplicate.v22.23.74.-.@thisismanpreets.-.apptesters.org.ipa
-[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.23.74/WhatsApp.Business.v22.23.74.-.@thisismanpreets.-.apptesters.org.ipa
+[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.24.81/WhatsApp.Original.v22.24.81.-.@thisismanpreets.-.apptesters.org.ipa
+[duplicate]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.24.81/WhatsApp.Duplicate.v22.24.81.-.@thisismanpreets.-.apptesters.org.ipa
+[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v22.24.81/WA.Business.v22.24.81.-.@thisismanpreets.-.apptesters.org.ipa
 
 # WhatsApp Watusi Restore
 
@@ -26,9 +26,9 @@ The WhatsApp Watusi IPA's will be updated as soon as Fouad Raheb (Original Devel
     The following IPA files have `Plugins` folder deleted and includes some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp Original][original] | net.whatsapp.WhatsApp | 22.23.74 | 1.1.40 | 4.1.17 | 3.3.15 |
-    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.23.74 | 1.1.40 | 4.1.17 | 3.3.15 |
-    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.23.74 | 1.1.40 | 4.1.17 | 3.3.15 |
+    | [WhatsApp Original][original] | net.whatsapp.WhatsApp | 22.24.81 | 1.1.45 | 4.1.17 | 3.4.0 |
+    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.24.81 | 1.1.45 | 4.1.17 | 3.4.0 |
+    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.24.81 | 1.1.45 | 4.1.17 | 3.4.0 |
 
     ```Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.```
     
