@@ -1,6 +1,6 @@
-[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v23.2.75/WhatsApp.Original.v23.2.75.-.@thisismanpreets.-.apptesters.org.ipa
-[duplicate]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v23.2.75/WhatsApp.Duplicate.v23.2.75.-.@thisismanpreets.-.apptesters.org.ipa
-[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v23.2.75/WhatsApp.Business.v23.2.75.-.@thisismanpreets.-.apptesters.org.ipa
+[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v23.5.75/WhatsApp.Original.v23.5.75.-.@thisismanpreets.-.apptesters.org.ipa
+[duplicate]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v23.5.75/WhatsApp.Duplicate.v23.5.75.-.@thisismanpreets.-.apptesters.org.ipa
+[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v23.5.75/WhatsApp.Business.v23.5.75.-.@thisismanpreets.-.apptesters.org.ipa
 
 # WhatsApp Watusi Restore
 
