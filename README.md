@@ -1,7 +1,11 @@
-[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v23.9.77/WhatsAppOriginal_23.9.77_Watusi_1.1.55_Stalky_4.1.19_OnlineNotify_3.4.1_@thisismanpreets_apptesters.org.ipa
-[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v23.9.77/WhatsAppBusiness_23.9.77_Watusi_1.1.55_Stalky_4.1.19_OnlineNotify_3.4.1_@thisismanpreets_apptesters.org.ipa
+[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v23.10.77/WhatsAppOriginal_23.10.77_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org.ipa
+[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v23.10.77/WABusiness_23.10.77_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org.ipa
 
 # WhatsApp Watusi Restore
+
+RELEASE: Tutorial on How to get Notifications and iCloud on your Sideload WhatsApp
+
+https://medium.com/@iammanpreetsingh/how-to-get-notifications-and-icloud-on-your-sideload-whatsapp-db3c234d6a60
 
 NOW GET LIFETIME APPLE CERTIFICATE FOR YOUR DEVICE. Better than any other Signing Certificate Provider.
 Visit https://www.apptesters.org/
@@ -25,8 +29,8 @@ This is an actively updated repository. Every release is tested and verified by 
     The following IPA files have deleted the `Plugins` folder and include some fixes to avoid WhatsApp crashing when not signed with the proper entitlements.
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp Original][original] | net.whatsapp.WhatsApp | 23.9.77 | 1.1.54 | 4.1.19 | 3.4.1 |
-    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 23.9.77 | 1.1.54 | 4.1.19 | 3.4.1 |
+    | [WhatsApp Original][original] | net.whatsapp.WhatsApp | 23.10.77 | 1.1.61 | 4.1.21 | 3.4.3 |
+    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 23.10.77 | 1.1.61 | 4.1.21 | 3.4.3 |
 
     `Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.`
     
