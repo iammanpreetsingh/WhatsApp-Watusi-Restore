@@ -1,5 +1,5 @@
-[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v23.12.71/WhatsApp_23.12.71_Watusi_1.1.62_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org.ipa
-[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v23.11.80/WABusiness_23.11.80_Watusi_1.1.62_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org.ipa
+[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v23.15.78/WhatsApp_23.15.78_Watusi_1.2_Stalky_4.1.22_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org.ipa
+[business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v23.15.78/WABusiness_23.15.78_Watusi_1.2_Stalky_4.1.22_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org.ipa
 
 # WhatsApp Watusi Restore
 
