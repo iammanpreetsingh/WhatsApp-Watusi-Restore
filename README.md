@@ -29,8 +29,8 @@ This is an actively updated repository. Every release is tested and verified by 
     The following IPA files have deleted the `Plugins` folder and include some fixes to avoid WhatsApp crashing when not signed with the proper entitlements.
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp Original][original] | net.whatsapp.WhatsApp | 23.12.71 | 1.1.62 | 4.1.21 | 3.4.3 |
-    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 23.11.80 | 1.1.62 | 4.1.21 | 3.4.3 |
+    | [WhatsApp Original][original] | net.whatsapp.WhatsApp | 23.15.78 | 1.2 | 4.1.22 | 3.4.3 |
+    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 23.15.78 | 1.2 | 4.1.22 | 3.4.3 |
 
     `Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.`
     
