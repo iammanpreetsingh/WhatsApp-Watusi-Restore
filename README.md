@@ -1,4 +1,4 @@
-[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v24.6.77/WhatsApp_24.6.77_Watusi_1.2.27_Stalky_4.1.24_OnlineNotify_3.4.4_@thisismanpreets_apptesters.org.ipa
+[original]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v24.8.80/WhatsApp_24.8.80_Watusi_1.2.30_Stalky_4.1.25_OnlineNotify_3.4.4_@thisismanpreets_apptesters.org.ipa
 [business]: https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore/releases/download/v24.6.77/WABusiness_24.6.77_Watusi_1.2.27_Stalky_4.1.24_OnlineNotify_3.4.4_@thisismanpreets_apptesters.org.ipa
 
 # WhatsApp Watusi Restore
@@ -29,7 +29,7 @@ This is an actively updated repository. Every release is tested and verified by 
     The following IPA files have deleted the `Plugins` folder and include some fixes to avoid WhatsApp crashing when not signed with the proper entitlements.
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp Original][original] | net.whatsapp.WhatsApp | 24.6.77 | 1.2.27 | 4.1.24 | 3.4.4 |
+    | [WhatsApp Original][original] | net.whatsapp.WhatsApp | 24.8.80 | 1.2.30 | 4.1.25 | 3.4.4 |
     | [WA Business][business] | net.whatsapp.WhatsAppSMB | 24.6.77 | 1.2.27 | 4.1.24 | 3.4.4 |
 
     `Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.`
